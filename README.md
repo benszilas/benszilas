@@ -1,46 +1,9 @@
-<!--
-1. <div align="center">
-2. <img src="https://user-images.githubusercontent.com/11324886/211690037-8a55c43f-449d-47a7-872d-09136549e361.jpeg"/>
-3. </div>
--->
-
-<!-- <h2 align="center">Hi 👋! My name is Benjamin</h2> -->
-<!--
-<div align="center">
-<img src="https://github.com/benszilas/benszilas/blob/output/github-contribution-grid-snake.gif"/>
-</div>
--->
-
-###
-
-# 🚀 My Software Engineering Journey  
+# My Software Engineering Journey  
 
 Back in 2024, I decided to learn **software engineering** to become an active participant in our digitalized world.  
 I currently study at **42 Vienna**, a peer-driven software engineering school with a unique hands-on learning approach.  
 
-At **42**, we don’t have traditional lectures, teachers, or structured courses. Instead, we learn by solving real-world challenges, collaborating with peers, and defending our code. The learning experience is much like open-source development—**we review each other’s code, share knowledge, and push each other to higher standards.**  
-
-## 🔹 What I Learned at 42 Vienna  
-### 💻 **Technical Skills**  
-- **Systems Programming**: Writing low-level C/C++ programs from scratch.  
-  - Rebuilding **Unix functions** like `printf` (no library shortcuts!).  
-  - Creating a **Bash shell**, including environment handling, forking, piping, parsing, and signal handling.  
-  - Implementing an **HTTP server** by rebuilding `nginx`.  
-- **DevOps & CI/CD**:  
-  - Automated testing and deployment with **GitHub Actions**.  
-  - Debugging with tools like **Valgrind and Helgrind** to ensure memory safety.  
-- **High-Quality Code**: Every project must be **100% correct**—no "close enough" solutions.  
-
-### 🧠 **Soft Skills**  
-- **Problem-Solving & Self-Learning**:  
-  - No handholding—when given a project, we receive **a PDF and a "Good luck!"**  
-  - Learn to embrace "I have no idea how to do this" and find solutions independently.  
-- **Code Reviews & Defenses**:  
-  - After submitting a project, I must **defend every part of my code** to three random peers.  
-  - If I can’t explain my code or justify my decisions, I fail.  
-  - This process teaches **clear communication, conflict resolution, and resilience**.  
-
-## 📂 Featured School Projects  
+## Featured School Projects  
 
 - **Minishell**
   - Creating a **Bash shell**, including environment handling, forking, piping, parsing, and signal handling.  
