@@ -6,7 +6,7 @@ I currently study at **42 Vienna**, a peer-driven software engineering school wi
 ## Featured School Projects  
 
 - **Minishell**
-  - Creating a **Bash shell**, including environment handling, forking, piping, parsing, and signal handling.  
+  - Creating a bash style shell, including environment handling, forking, piping, parsing, and signal handling.  
 - **MiniRT**
   - A raytracing renderer capable of rendering basic geometric shapes, point lights and ambient lighting,
   - ppm textures and bump maps, perfect mirrors, enhanced with anti-aliasing
