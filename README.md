@@ -1,3 +1,5 @@
+[my motto](https://blogs.mtdv.me/articles/r3mYCc6C0D)
+
 ###
 
 <div align="center">
