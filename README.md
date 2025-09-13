@@ -1,5 +1,3 @@
-[my motto](https://blogs.mtdv.me/articles/r3mYCc6C0D)
-
 ###
 
 <div align="center">
@@ -16,3 +14,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&username=benszilas" height="150" alt="languages graph"  />
 </div>
 -->
+
+[my motto](https://blogs.mtdv.me/articles/r3mYCc6C0D)
